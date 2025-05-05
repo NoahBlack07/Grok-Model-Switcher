@@ -16,7 +16,11 @@
 <p>Perfect for testing or using both Grok models while monitoring usage quotas.</p>
 
 <h2>Installation</h2>
-You All Know how to Install.
+<ol>
+  <li><strong>Install Tampermonkey</strong>: Get the <a href="https://www.tampermonkey.net/">Tampermonkey</a> extension for your browser (Chrome, Firefox, Edge, etc.).</li>
+  <li><strong>Install the Script</strong>: Click "Install this script" on Greasy Fork or copy the script code into Tampermonkey’s dashboard.</li>
+  <li><strong>Visit grok.com</strong>: Go to <a href="https://grok.com">https://grok.com</a>, and the script will start automatically.</li>
+</ol>
 
 <h2>Feedback</h2>
 <p>Found a bug or have a suggestion? Leave a review on Greasy Fork. Your feedback improves the script!</p>
